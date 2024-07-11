@@ -210,3 +210,7 @@ main {
     justify-content: space-around;
     gap: 24px;
 }
+
+.target-content{
+    margin-top: 150px;
+}
