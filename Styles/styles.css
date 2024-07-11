@@ -306,6 +306,7 @@ main {
     gap: 24px;
     width: 36px;
     height: 36px;
+    
 }
 
 .footer-text {
@@ -318,6 +319,7 @@ main {
     line-height: 23px;
     letter-spacing: 0%;
     text-align: center;
+    margin-left: 150px;
 }
 
 .final-footer {
@@ -325,4 +327,5 @@ main {
     justify-content: space-between;
     max-width: 1440px;
     background-color: linear-gradient(135.00deg, rgb(36, 137, 190) 14.645%,rgb(5, 117, 179) 85.355%);
+    align-items: center;
 }
