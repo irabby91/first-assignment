@@ -325,7 +325,7 @@ main {
 .final-footer {
     display: flex;
     justify-content: space-between;
-    max-width: 1440px;
+    margin-right: 150px;
     background-color: linear-gradient(135.00deg, rgb(36, 137, 190) 14.645%,rgb(5, 117, 179) 85.355%);
     align-items: center;
     text-align: center;
